@@ -1,0 +1,19 @@
+{
+  "excursions": [
+    {
+      "id": 2,
+      "name": "Zwiedzanie Warszawy",
+      "price": 120
+    },
+    {
+      "name": "Gdynia",
+      "price": 123,
+      "id": 5
+    },
+    {
+      "name": "Kraków",
+      "price": 130,
+      "id": 11
+    }
+  ]
+}
